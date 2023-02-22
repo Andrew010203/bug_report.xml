@@ -1,0 +1,23 @@
+<bug_report>
+<ID>A1</ID>
+  <Title>Нажатие кнопки 'Перейти в каталог' на главной странице не перенаправляет на страницу Каталога</Title>
+  <Project>Сайт магазина электроники 'Энергия'</Project>
+  <Steps>
+    <STR>Зайти на главную страницу сайта (ссылка_на_сайт)</STR>
+    <STR>Нажать кнопку Каталог</STR>
+  </Steps>
+  <Environment>
+    <OS>Windows 11 x64 build 12345</OS>
+    <Browser>Google Chrome v96.0.4764.55 x64</Browser>
+    <Component>Кнопка Каталог</Component>
+    <Build>1.2.3</Build>
+  </Environment>
+  <Actual_result>Нажатие кнопки Каталог НЕ перенаправляет на страницу Каталога</Actual_result>
+  <Expected_result>Нажатие кнопки Каталог перенаправляет на страницу Каталога</Expected_result>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Status>Open</Status>
+  <Author>Пал Палыч</Author>
+  <Sign_to>Иван Васильевич</Sign_to>
+  <Attachments>ссылка на картинку или видео с багом</Attachments>
+</bug_report>
